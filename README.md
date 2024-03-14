@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Yusuf Bal</h1>
-<h3 align="center">A passionate software developer from Turkey</h3>
+<h1 align="center">Hi 👋, I'm Yusuf</h1>
+<h3 align="center">I'm a Computer Engineering student at Kocaeli University, and I'm passionately dedicated to the journey of software development as a Jr. Software Developer. I enjoy sharing knowledge and exploring new technologies.</h3>
 
 - 🌱 I’m currently learning **.Net, React**
 
